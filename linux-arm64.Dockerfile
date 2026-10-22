@@ -29,7 +29,7 @@ RUN \
     coreutils \
     curl \
     git \
-    libressl4.1-libssl \
+    libressl4.3-libssl \
     logrotate \
     nano \
     nginx \
